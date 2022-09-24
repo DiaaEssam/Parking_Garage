@@ -1,5 +1,5 @@
 # Parking_Garage
-1- This project is about designing a Parking Garage system for any organization where we focus on certain issues:<br/>
+<strong>1- This project is about designing a Parking Garage system for any organization where we focus on certain issues:<strong/><br/>
 &emsp;&ensp;&nbsp;  1- We let the Garage owner choose the way he/she wants to park vehicles.<br/>
 &emsp;&emsp;2- there are two ways: <br/>
 &emsp;&emsp;&emsp;        1- Best Fit, where we put the vehicle in the appropriate slot that fits the vehicle's dimensions perfectly (saving &emsp;&emsp;&emsp;&emsp;&ensp;space).<br/>
