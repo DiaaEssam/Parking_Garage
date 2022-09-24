@@ -7,7 +7,6 @@
 <br/>
 2- This project's files all written in java.<br/>
 <br/>
-<br/>
 3- This project contains the following:<br/>
 &emsp;    1- cli folder which includes input control object, interface face object, and output control object.<br/>
 &emsp;    2- domain folder which includes Dimensions file, ParkingSlot file, ParkingSpace file, Vehicle file, and VehicleModel &emsp;&ensp;&nbsp;&nbsp;file.<br/>
