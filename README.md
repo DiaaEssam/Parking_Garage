@@ -3,7 +3,7 @@
 &emsp;&ensp;&nbsp;  1- We let the Garage owner choose the way he/she wants to park vehicles.<br/>
 &emsp;&emsp;2- there are two ways: <br/>
 &emsp;&emsp;&emsp;        1- Best Fit, where we put the vehicle in the appropriate slot that fits the vehicle's dimensions perfectly (saving space).<br/>
-&emsp;&emsp;&emsp;        2- First come First serve, where we put the vehicle in any slot while this slot's dimensions can contain the vehicle's dimensions and no need &emsp;&emsp;&emsp;&emsp; for perfect fitting(saving time).<br/>
+&emsp;&emsp;&emsp;        2- First come First serve, where we put the vehicle in any slot while this slot's dimensions can contain the vehicle's dimensions and no need &emsp;&emsp;&emsp;for perfect fitting(saving time).<br/>
 <br/>
 2- This project's files all written in java.<br/>
 <br/>
