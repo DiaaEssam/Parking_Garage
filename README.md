@@ -2,7 +2,7 @@
 1- This project is about designing a Parking Garage system for any organization where we focus on certain issues:<br/>
 - We let the Garage owner choose the way he/she wants to park vehicles.<br/>
 - there are two ways: <br/>
- - Best Fit, where we put the vehicle in the appropriate slot that fits the vehicle's dimensions perfectly (saving &emsp;&emsp;&emsp;&emsp;&ensp;space).<br/>
+      - Best Fit, where we put the vehicle in the appropriate slot that fits the vehicle's dimensions perfectly (saving &emsp;&emsp;&emsp;&emsp;&ensp;space).<br/>
       - First come First serve, where we put the vehicle in any slot while this slot's dimensions can contain the &emsp;&emsp;&emsp;&emsp;&ensp;vehicle's dimensions and no need for perfect fitting(saving time).<br/>
 <br/>
 2- This project's files all written in java.<br/>
