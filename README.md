@@ -6,7 +6,7 @@
     - First come First serve, where we put the vehicle in any slot while this slot's dimensions can contain the &emsp;&emsp;&emsp;&emsp;&ensp;vehicle's dimensions and no need for perfect fitting(saving time).<br/>
 
 2- This project's files all written in java.<br/>
-<br/>
+
 - This project contains the following:<br/>
     - cli folder which includes input control object, interface face object, and output control object.<br/>
     - domain folder which includes Dimensions file, ParkingSlot file, ParkingSpace file, Vehicle file, and VehicleModel &emsp;&ensp;&nbsp;&nbsp;file.<br/>
